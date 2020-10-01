@@ -1,4 +1,4 @@
-# PyVox
+# PyVox - A Wonderful BOT
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg?style=flat-square)](https://github.com/Hiroyu/_PyVox)
 [![Twitter](https://img.shields.io/twitter/follow/_Hiroyu.svg?style=social)](http://twitter.com/_Hiroyu)  
 YouTube and Soundcloud playback bot for Discord. Supports some other websites as well.  
